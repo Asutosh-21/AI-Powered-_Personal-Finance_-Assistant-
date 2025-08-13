@@ -4,6 +4,18 @@
 
 ---
 
+<!-- Banner -->
+<p align="center">
+  <img src="How-AI-is-Transforming-Personal-Finance-DM-WebSoft.webp" alt="AI Personal Finance Insights Banner" width="100%">
+</p>
+
+<h1 align="center">💰 AI Personal Finance Insights</h1>
+<p align="center">
+  An AI-powered personal finance insights system built with <b>Python, Machine Learning, LangChain, and OpenAI</b> to deliver data-driven financial recommendations, expense analysis, and AI-generated insights — all inside Jupyter notebooks.
+</p>
+
+---
+
 ## 🔎 Project Overview
 
 This project develops an **AI‑powered personal finance assistant** using **Python, pandas, matplotlib, seaborn, plotly, scikit‑learn, LangChain, and OpenAI**. The assistant:
